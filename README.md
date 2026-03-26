@@ -72,6 +72,12 @@ Here's a chronological list of all prompts from our conversation:
 
 ### 1. Initial Questions
 Setup & Learning
+“What is an API? Explain in simple terms for a beginner.”
+
+"What are some of the weather APIs i can use ?"
+
+“How do I make an HTTP request in JavaScript (or Python) to fetch data from an API?”
+
 "What is Open-Meteo API? How does it work?"
 
 "How to get current weather data using Open-Meteo API with JavaScript?"
