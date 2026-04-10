@@ -1,4 +1,4 @@
-# Moringa-AI-Capstone-Project
+# Moringa-AI-Capstone-Project.
 Beginner's Toolkit with GenAI
  we will be working on a Weather API using open meteo API(Free ie does not require any API key generation)
 
